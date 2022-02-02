@@ -1,0 +1,77 @@
+td,th,input,textarea,select,button,.IAO_WorkflowResponse input {
+font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+color:#000000;
+font-size:11px;
+}
+input,textarea,select,button,.IAO_WorkflowResponse input
+{background-color:#EEEEFF}
+.counter{
+font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+color:#D5D0BD;
+font-size:11px;
+}
+a {
+	color: #3300FF;
+	text-decoration: none;
+}
+a:hover {
+	color : #30569D;
+	text-decoration : underline;
+}
+a:active {
+	color : #000000;
+	text-decoration : underline;
+}
+table.laporan {
+	background-color: #ffffff;
+	border: solid 0px #d5d5d5;
+	padding: 1px;
+	border-collapse: collapse;
+}
+table.laporan th {
+	font-size: 11px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	height: 25px;
+	background-color: #3399FF;
+	background-repeat: repeat;
+	color: #FFFFFF;	
+}
+table.laporan td {
+	font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 1px;
+	font-size: 11px;
+	height: 20px;	
+}
+table.laporan td.editor {
+	font-size: 8px;
+}
+table.laporan2 {
+	background-color: #ffffff;
+	border: solid 1px #d5d5d5;
+	padding: 1px;
+}
+table.laporan2 th {
+	font-size: 11px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	height: 25px;
+	background-color: #ffffff;
+	background-repeat: repeat;
+	color: #000000;
+}
+table.laporan2 td {
+	font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 1px;
+	font-size: 11px;
+	height: 20px;
+}
+table.laporan2 td.editor {
+	font-size: 8px;
+}
